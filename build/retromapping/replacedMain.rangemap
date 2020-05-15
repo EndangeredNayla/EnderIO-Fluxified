@@ -1,0 +1,24 @@
+Unsupposrted library path: /home/parkerhanegan/Desktop/EnderIO-Fluxified/build/classes/java/api
+Unsupposrted library path: /home/parkerhanegan/Desktop/EnderIO-Fluxified/build/resources/api
+Symbol range map extraction starting
+Processing 1 files
+startProcessing "com/crankysupetoon/enderiofluxified/EnderIOFluxified.java" md5: 6b67a3d4557ca1601dab7074a63d5d17
+@|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|8|43|com.crankysupetoon.enderiofluxified|package|com.crankysupetoon.enderiofluxified|(file)
+Class Start: com.crankysupetoon.enderiofluxified.EnderIOFluxified
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|90|93|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|94|99|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|102|118|EnderIOFluxified|class|com.crankysupetoon.enderiofluxified.EnderIOFluxified|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|119|124|MODID|field|com.crankysupetoon.enderiofluxified.EnderIOFluxified|MODID
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|126|133|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|136|152|EnderIOFluxified|class|com.crankysupetoon.enderiofluxified.EnderIOFluxified|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|153|160|VERSION|field|com.crankysupetoon.enderiofluxified.EnderIOFluxified|VERSION
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|175|191|EnderIOFluxified|class|com.crankysupetoon.enderiofluxified.EnderIOFluxified|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|215|221|String|class|java.lang.String|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|215|221|String|class|java.lang.String|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|222|227|MODID|field|com.crankysupetoon.enderiofluxified.EnderIOFluxified|MODID|
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|271|277|String|class|java.lang.String|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|271|277|String|class|java.lang.String|false
+   @|com/crankysupetoon/enderiofluxified/EnderIOFluxified.java|278|285|VERSION|field|com.crankysupetoon.enderiofluxified.EnderIOFluxified|VERSION|
+Class End  : com.crankysupetoon.enderiofluxified.EnderIOFluxified
+endProcessing "com/crankysupetoon/enderiofluxified/EnderIOFluxified.java"
+

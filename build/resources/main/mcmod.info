@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "enderiofluxified",
+    "name": "EnderIO Fluxified",
+    "description": "Adds Visual RF to EnderIO",
+    "version": "1.0.0",
+    "credits": "EnderIO Developers for an Amazing Mod that uses RF i mean FE.",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "CrankySupertoon"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
