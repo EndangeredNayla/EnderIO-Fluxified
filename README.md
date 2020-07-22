@@ -1,4 +1,4 @@
-# EnderIO Fluxified [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+# EnderIO Fluxified [![Discord][discordImg]][discordLink] [![CI][ciImg]][ciLink] [![Curseforge][curseImg]][curseLink]
 
 
 **EnderIO Fluxified** fluxifys textures for EnderIO
@@ -35,6 +35,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
 
-[curseImg]: http://cf.way2muchnoise.eu/383630.svg?badge_style=for_the_badge
+[ciImg]: https://img.shields.io/github/workflow/status/CrankySupertoon/EnderIO-Fluxified/Java%20CI%20with%20Gradle?style=for-the-badge
+[ciLink]: https://github.com/CrankySupertoon/EnderIO-Fluxified/actions?query=workflow%3A%22Java+CI+with+Gradle%22
 
+[curseImg]: http://cf.way2muchnoise.eu/383630.svg?badge_style=for_the_badge
 [curseLink]: https://www.curseforge.com/minecraft/mc-mods/enderio-fluxified
